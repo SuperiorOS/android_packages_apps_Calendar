@@ -750,4 +750,8 @@
 
     <!-- Do Not Translate.  Sender identity for global notification synchronization. -->
     <string name="notification_sender_id" translatable="false"></string>
+
+    <!-- Calendar Widget -->
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
 </resources>

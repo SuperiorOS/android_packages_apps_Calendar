@@ -57,4 +57,11 @@
     <color name="calendars_to_display_button_text_color">#000000</color>
     <color name="calendars_to_display_list_text_color">#000000</color>
 
+    <!-- Calendar Widget -->
+    <color name="foreground_full">#fff</color>
+    <color name="foreground_semi">#4fff</color>
+    <color name="foreground_today">#111</color>
+    <color name="background_today">#fff</color>
+    <color name="background_full">#1fff</color>
+
 </resources>
