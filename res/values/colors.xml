@@ -23,7 +23,7 @@
 
     <color name="selection">@android:color/holo_blue_light</color>
 
-    <color name="today_highlight_color">#0033b5e5</color>
+    <color name="today_highlight_color">#00FF9800</color>
 
     <!-- The app wide background color -->
     <color name="background_color">#fafafa</color>
@@ -46,7 +46,7 @@
 
     <color name="calendar_date_banner_text_color">#FF666666</color>
 
-    <color name="calendar_grid_area_selected">#e633b5e5</color>
+    <color name="calendar_grid_area_selected">#FF9800</color>
 
 
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>

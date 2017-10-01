@@ -17,10 +17,9 @@
 <resources>
 
     <!-- Colors -->
-
-    <color name="accent">#FF4081</color>
-    <color name="primary_color">#3F51B5</color>
-    <color name="primary_dark_color">#303F9F</color>
+    <color name="accent">#FF9800</color>
+    <color name="primary_color">#795548</color>
+    <color name="primary_dark_color">#5D4037</color>
     <color name="month_focus_month_bgcolor">#FFFFFFFF</color>
     <color name="floating_action_button_icon_color">#ffffff</color>
 
