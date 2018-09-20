@@ -7,7 +7,7 @@ color_picker_dir := ../../../frameworks/opt/colorpicker/res
 datetimepicker_dir := ../../../frameworks/opt/datetimepicker/res
 timezonepicker_dir := ../../../frameworks/opt/timezonepicker/res
 appcompat_dir := ../../../$(SUPPORT_LIBRARY_ROOT)/v7/appcompat/res
-res_dirs := $(chips_dir) $(color_picker_dir) $(datetimepicker_dir) $(timezonepicker_dir) res
+res_dirs := $(chips_dir) $(color_picker_dir) $(datetimepicker_dir) $(timezonepicker_dir) $(appcompat_dir) res
 src_dirs := src
 
 LOCAL_JACK_COVERAGE_INCLUDE_FILTER := com.android.calendar.*
